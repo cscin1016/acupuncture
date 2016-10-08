@@ -1,0 +1,112 @@
+/* Class = "UILabel"; text = "锤击 Stroke 适用于肩部僵硬，恢复疲劳，促进末端血液循环，消除肌肉疼痛，疏通经络，理筋整复，活血散瘀，加速淋巴液回流等作用。"; ObjectID = "A16-lg-lF6"; */
+"A16-lg-lF6.text" = "Suitable for shoulder stiff, rest for overcoming fatigue, promote blood circulation, eliminate muscle pain, dredge channels, tendon repair, blood stasis, relieve spasm, accelerate lymph circulation effects.";
+
+
+/* Class = "UILabel"; text = "按摩 Massage 温经通络，行气活血，镇静止痛，能提高皮肤温度，增强关节韧带的柔韧性等作用，常用于消除运动后的肌肉疲劳。"; ObjectID = "sfs-ey-vrs"; */
+"sfs-ey-vrs.text" = "Warm and activate meridians, promote breath and blood circulation, sedation and analgesia, warm skin, enhance the flexibility of the joints and ligaments, which is often used to eliminate muscle fatigue after exercise.";
+
+
+/* Class = "UILabel"; text = "推拿 Manipulation 和中理气，消积导滞，调节肠胃蠕动，活血散瘀和镇痉、止痛等作用。"; ObjectID = "y2W-oF-QlH"; */
+"y2W-oF-QlH.text" = "Neutralize incretion, remove stagnation, regulate gastrointestinal motility, effect of activating blood circulation to dissipate blood stasis and sedation, spasm, pain etc.";
+
+
+/* Class = "UILabel"; text = "自定义 Custom 用户可以根据自己要求调整强度、设置时间。"; ObjectID = "6Jz-zL-icf"; */
+"6Jz-zL-icf.text" = "According to own needs to combine the above mode, adjust intensity, setting time.";
+
+
+/* Class = "UILabel"; text = "Unpaired"; ObjectID = "4I9-TG-xYp"; */
+"4I9-TG-xYp.text" = "Unpaired";
+
+/* Class = "UILabel"; text = "自定义模式"; ObjectID = "4jj-A4-9ul"; */
+"4jj-A4-9ul.text" = "CustomMode";
+
+/* Class = "UIButton"; normalTitle = "Reference"; ObjectID = "6N2-Mc-FbF"; */
+"6N2-Mc-FbF.normalTitle" = "Reference";
+
+/* Class = "UILabel"; text = "强度"; ObjectID = "A7d-Dn-OZ0"; */
+"A7d-Dn-OZ0.text" = "Strength";
+
+/* Class = "UILabel"; text = "级"; ObjectID = "Dm8-DV-Mp1"; */
+"Dm8-DV-Mp1.text" = "Level";
+
+/* Class = "UILabel"; text = "强度"; ObjectID = "ECm-2c-zHU"; */
+"ECm-2c-zHU.text" = "Strength";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "FNS-0X-H51"; */
+"FNS-0X-H51.text" = "Mode";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "JBM-54-fZc"; */
+"JBM-54-fZc.text" = "0%";
+
+/* Class = "UILabel"; text = "时间"; ObjectID = "M0k-oU-6yc"; */
+"M0k-oU-6yc.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "分享"; ObjectID = "NuP-XZ-Ped"; */
+"NuP-XZ-Ped.normalTitle" = "Share";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "OSE-9i-1MM"; */
+"OSE-9i-1MM.normalTitle" = "More";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "OhR-gW-P7V"; */
+"OhR-gW-P7V.text" = "1";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "TWT-eu-SZw"; */
+"TWT-eu-SZw.text" = "1";
+
+
+
+/* Class = "UITextView"; text = " Pairing With iHeper , Make Sure Bluetooth Is Enabled!                                                                                             "; ObjectID = "TYE-7U-THu"; */
+"TYE-7U-THu.text" = " Pairing With iHeper , Make Sure Bluetooth Is Enabled!                                                                                             ";
+
+/* Class = "UILabel"; text = "时间"; ObjectID = "YOd-yH-fWB"; */
+"YOd-yH-fWB.text" = "Time";
+
+
+
+/* Class = "UIButton"; normalTitle = "设备1"; ObjectID = "ZKP-w9-onf"; */
+"ZKP-w9-onf.normalTitle" = "Device One";
+
+/* Class = "UILabel"; text = "分钟"; ObjectID = "ahD-FM-rEc"; */
+"ahD-FM-rEc.text" = "Minute";
+
+/* Class = "UILabel"; text = "deviceName"; ObjectID = "nTc-CP-nbR"; */
+"nTc-CP-nbR.text" = "deviceName";
+
+/* Class = "UILabel"; text = "Current Version :1.0.2"; ObjectID = "o1W-wL-Zot"; */
+"o1W-wL-Zot.text" = "Current Version :1.0";
+
+/* Class = "UILabel"; text = "穴位"; ObjectID = "oIU-rz-SM6"; */
+"oIU-rz-SM6.text" = "Acupoint";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "ohk-f2-TX4"; */
+"ohk-f2-TX4.normalTitle" = "About";
+
+/* Class = "UIButton"; normalTitle = "反馈"; ObjectID = "u6t-MX-U7g"; */
+"u6t-MX-U7g.normalTitle" = " Feedback";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "uDT-OQ-tPz"; */
+"uDT-OQ-tPz.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "uTD-fe-Ij4"; */
+"uTD-fe-Ij4.text" = "Mode";
+
+/* Class = "UILabel"; text = "iHeper"; ObjectID = "vHd-8e-gQJ"; */
+"vHd-8e-gQJ.text" = "iHeper";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "vvP-JG-sdP"; */
+"vvP-JG-sdP.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "yTQ-rU-BZQ"; */
+"yTQ-rU-BZQ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "关于"; ObjectID = "zEx-Gp-Lmo"; */
+"zEx-Gp-Lmo.text" = "About";
+
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "BKA-6T-bTE"; */
+"BKA-6T-bTE.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "28o-Ly-Zan"; */
+"28o-Ly-Zan.normalTitle" = "Save";
+
+

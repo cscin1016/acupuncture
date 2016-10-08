@@ -7,9 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+#import "CoreBluetooth/CoreBluetooth.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<CBCentralManagerDelegate,CBPeripheralDelegate,UIActionSheetDelegate>
 
+@property (strong,nonatomic) CBCentralManager * cbCentralMgr;
+
+@property (weak, nonatomic) IBOutlet UITableView *MyTableView;
+
+@property (weak, nonatomic) IBOutlet UILabel *label;
 
 @end
 
